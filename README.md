@@ -1,4 +1,5 @@
-Stopwatch & Timer using HTML CSS JS. 
+Stopwatch & Timer using HTML CSS  & JS. 
+
 Stopwatches and timers are instruments used to measure time interval, which is defined as the elapsed time between two events.
 Here, a straightforward but distinctive interface is used to create the timer and stopwatch using CSS. Timer displays the countdown to the start of the year 2024. 
 Screenshots
