@@ -8,4 +8,4 @@ Screenshots
 ![image](https://github.com/Priya7319/CodeClauseInternship_timerstopwatch/assets/121280644/343e13b5-2a7c-4825-9ef3-3f1f09860910)
 
 website demo 
- 
+ https://priya7319.github.io/CodeClauseInternship_timerstopwatch/
